@@ -12,7 +12,7 @@ Nuxt Content reads the `content/` directory in your project, parses `.md`, `.yml
 - [👾 &nbsp;Playground](https://stackblitz.com/github/nuxt/content/tree/main/examples/essentials/hello-world?file=app.vue)
 - [✨ &nbsp;Intro video](https://www.youtube.com/watch?v=o9e12WbKrd8)
 
-## Features.
+## Features
 
 - [**Nuxt 3**](https://v3.nuxtjs.org) support
 - A Markdown syntax made for Vue components ([**MDC**](https://content.nuxtjs.org/guide/writing/mdc))
